@@ -1,6 +1,6 @@
-# Customer Churn & RFM Analytics Platform
+# Customer RFM & Churn Predictor
 An end-to-end ML project using RFM Analysis for segmentation and Random Forest for churn prediction."
-# 🚀 E-Commerce Customer Churn & RFM Predictor
+# 🚀 E-Commerce Customer RFM & Churn Predictor
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://rfm-customer-segments.streamlit.app/) 
 
